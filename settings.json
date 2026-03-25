@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CraftClass.aternos.me:63734",
+    "ip": "CraftClass.aternos.me",
     "port": 63734,
     "version": "",
     "try-creative": false
